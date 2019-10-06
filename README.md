@@ -12,7 +12,7 @@ git checkout [branch-name]
 
 ## Commit to current branch
 ```
-git add
+git add .
 git commit -m "Commit comments..."
 ```
 
