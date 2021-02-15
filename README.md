@@ -10,6 +10,11 @@ git branch [branch-name]
 git checkout [branch-name]
 ```
 
+## Create + Switch to branch
+```
+git checkout -b [branch-name]
+```
+
 ## Commit to current branch
 ```
 git add .
