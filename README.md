@@ -25,3 +25,8 @@ git commit -m "Commit comments..."
 ```
 git push -u origin [branch-name]
 ```
+
+## Change remote url
+```
+git remote set-url origin https://github.com/.../git-cheat-sheet.git
+```
