@@ -30,3 +30,11 @@ git push -u origin [branch-name]
 ```
 git remote set-url origin https://github.com/.../git-cheat-sheet.git
 ```
+
+## Deep move
+```
+git clone --mirror <url_old_repo>
+cd <name_old_repo>
+git remote add new-origin <url_new_repo>
+git push new-origin --mirror
+```
