@@ -38,3 +38,10 @@ cd <name_old_repo>
 git remote add new-origin <url_new_repo>
 git push new-origin --mirror
 ```
+
+## Stash
+```
+git stash
+...
+git stash pop
+```
