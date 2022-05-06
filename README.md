@@ -21,6 +21,13 @@ git add .
 git commit -m "Commit comments..."
 ```
 
+## Sync changes from main branch
+```
+git pull master
+git checkout my-branch
+git pull origin master
+```
+
 ## Push and create remote branch
 ```
 git push -u origin [branch-name]
