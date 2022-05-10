@@ -26,6 +26,7 @@ git commit -m "Commit comments..."
 git pull master
 git checkout my-branch
 git pull origin master
+:wq
 ```
 
 ## Push and create remote branch
