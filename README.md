@@ -28,6 +28,10 @@ git checkout my-branch
 git pull origin master
 :wq
 ```
+...or...
+```
+git pull --rebase origin master
+```
 
 ## Push and create remote branch
 ```
